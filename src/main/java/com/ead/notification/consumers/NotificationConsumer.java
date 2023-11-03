@@ -1,6 +1,6 @@
 package com.ead.notification.consumers;
 
-import com.ead.notification.dtos.NotificationCommandDto;
+import com.ead.notification.models.dtos.NotificationCommandDto;
 import com.ead.notification.enums.NotificationStatus;
 import com.ead.notification.models.NotificationModel;
 import com.ead.notification.services.NotificationService;
